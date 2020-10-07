@@ -1,8 +1,8 @@
 ## Pixelpost
 Pixelpost was entirely written and conceived by myself (Linus Areng) way back in the day. It grew to quite some popularity and eventually my time and energy was spent, and I decided to give it away to the community to do as they wish.
-While they did lack a vision and strayed somewhat from the original path that led to its eventual demise, it was kept alive for many years before it was abandoned.
+While they did lack a vision in my opinion, and later strayed from the original path that led to its eventual demise, it was kept alive for many years before it eventually was abandoned all together. The code in this repository is not of my own writing as it has been re-written likely more than one time by various developers.
 
-I am still proud of the original that I wrote and that gained widespread popularity.
+I am still proud of the original idea, concept and (non-code-)architecture that I wrote and that gained widespread popularity.
 
 ## Original Read me
 Pixelpost version 1.7.1
