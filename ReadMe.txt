@@ -1,5 +1,5 @@
 ## Pixelpost
-Pixelpost was entirely written and conceived by myself way back in the day. It grew to quite some popularity and eventually my time and energy was spent, and I decided to give it away to the community to do as they wish.
+Pixelpost was entirely written and conceived by myself (Linus Areng) way back in the day. It grew to quite some popularity and eventually my time and energy was spent, and I decided to give it away to the community to do as they wish.
 While they did lack a vision and strayed somewhat from the original path that led to its eventual demise, it was kept alive for many years before it was abandoned.
 
 I am still proud of the original that I wrote and that gained widespread popularity.
