@@ -1,4 +1,4 @@
-## Pixelpost
+## Pixelpost origin
 Pixelpost was entirely written and conceived by myself (Linus Areng) way back in the day. It grew to quite some popularity and eventually my time and energy was spent, and I decided to give it away to the community to do as they wish.
 While they did lack a vision in my opinion, which later strayed from the original conceptual path and was one of the reasons for its eventual demise, it was kept alive for many years before it eventually was abandoned all together. The code in this repository is not of my own writing as it has been re-written likely more than one time by various developers.
 
